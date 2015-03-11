@@ -1,5 +1,7 @@
 # Double Lines
 
+(for Markdown)
+
 You might not be confused by "I should press Enter twice to make a paragragh", but what about "Press Enter once cannot make a line break"?
 
 I have to adopt to this, so just turn line break to paragraph instead, you can use the single line of code below:
